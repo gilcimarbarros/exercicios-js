@@ -1,2 +1,2 @@
 # exercicios-js
- Estudo java script
+ Estudo de java script
